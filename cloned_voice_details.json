@@ -1,0 +1,6 @@
+{
+    "lucas": {
+        "description": "Lucas é brasileiro e falar português, tem 38 anos de idade e mora no brasil",
+        "files": ["./clones/lucas1.wav", "./clones/lucas2.wav", "./clones/lucas3.wav"]
+    }
+}
