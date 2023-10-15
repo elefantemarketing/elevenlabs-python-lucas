@@ -1,5 +1,5 @@
 from elevenlabs import set_api_key
-set_api_key("36bc6e771f1199dee902338f02f50441")
+set_api_key("")
 
 import argparse
 import os
